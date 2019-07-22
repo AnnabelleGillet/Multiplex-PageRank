@@ -1,6 +1,6 @@
 # Multiplex Page Rank
 ## Introduction
-This Multiplex Page Rank is an adaptation of the [Matlab version made by Ginestra](https://github.com/ginestrab/Multiplex-PageRank). It is written in Scala with [Breeze](https://github.com/scalanlp/breeze).
+This Multiplex Page Rank is an adaptation of the [Matlab version made by Ginestra Bianconi](https://github.com/ginestrab/Multiplex-PageRank). It is written in Scala with [Breeze](https://github.com/scalanlp/breeze).
 
 ## Installation
 Requirements: Scala 2.13, Breeze 1.0-RC4, sbt 1.0
