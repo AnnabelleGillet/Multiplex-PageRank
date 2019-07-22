@@ -19,4 +19,4 @@ To import the Multiplex Page Rank, use:
 import pagerank_multiplex.core._
 ```
 
-You can find example of use [here](https://github.com/AnnabelleGillet/PageRank-Multiplex/blob/master/src/test/scala/pagerank_multiplex/core/PageRankMultiplexTest.scala).
+You can find example of use [here](https://github.com/AnnabelleGillet/Multiplex-PageRank/blob/master/src/test/scala/pagerank_multiplex/core/PageRankMultiplexTest.scala).
